@@ -30,9 +30,9 @@ DENTRO DEL COSMERE:
 	-El Ritmo de la Guerra
 
 
-	+Elantris
++Elantris
 
-	+El Alma Del Emperador
++El Alma Del Emperador
 
 
 
