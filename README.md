@@ -14,6 +14,14 @@ DENTRO DEL COSMERE:
 	-El heroe de las eras
 
 
++Saga Mistborn (Parte 2):
+
+	-Aleación De Ley
+
+	-Sombras De Identidad
+
+	-Brazales De Duelo
+
 
 +Saga El Archivo De Las Tormentas:
 
@@ -33,16 +41,6 @@ DENTRO DEL COSMERE:
 +Elantris
 
 +El Alma Del Emperador
-
-
-
-+Saga Mistborn (Parte 2):
-
-	-Aleación De Ley
-
-	-Sombras De Identidad
-
-	-Brazales De Duelo
 
 
 
