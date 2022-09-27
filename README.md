@@ -1,49 +1,107 @@
 # Brandon_Sanderson_Books
 
 
-Orden de Lectura
+## Orden de Lectura
 
-DENTRO DEL COSMERE:
+### DENTRO DEL COSMERE:
 
-+Saga Mistborn (Parte 1):
++ Saga Mistborn (Parte 1):
 
-	-El imperio final	
+	- El imperio final	
 
-	-El pozo de la ascension
+	- El pozo de la ascension
 
-	-El heroe de las eras
+	- El heroe de las eras
 
+---
 
-+Saga Mistborn (Parte 2):
++ Saga Mistborn (Parte 2):
 
-	-Aleación De Ley
+	- Aleación De Ley
 
-	-Sombras De Identidad
+	- Sombras De Identidad
 
-	-Brazales De Duelo
+	- Brazales De Duelo
 
+---
 
-+Saga El Archivo De Las Tormentas:
++ Saga El Archivo De Las Tormentas:
 
-	-El camino de los reyes
+	- El camino de los reyes
 
-	__(El Aliento De Los Dioses)
+	- El Aliento De Los Dioses
 
-	-Palabras Radiantes
+	- Palabras Radiantes
 
-	__(Arcanum Ilimitado; en especial Danzante Del Filo)**
+	- Arcanum Ilimitado; en especial Danzante Del Filo **
 	
-	-Juramentada
+---
+
++ Juramentada
 	
-	-El Ritmo de la Guerra
+	- El Ritmo de la Guerra
+
+---
+
++ Elantris
+
+---
+
++ El Alma Del Emperador
+
+---
+---
+
+### FUERA DEL COSMERE
 
 
-+Elantris
++ Trilogia De Los Reckoners
+ (Recomendada para jovenes de 15 años aprox)
+ ---
 
-+El Alma Del Emperador
+- Steelheart
 
+- Firefight
 
+- Calamity
 
+---
+
++ Escuadrón
+
+---
+
++ Saga de Alcatraz (Recomendada para niños de 8 años aprox)
+
+    1. Alcatraz vs Bibliotecarios malvados
+  
+    2. Alcatraz vs Los huesos del escriba
+  
+    3. Alcatraz vs Los caballeros de Cristallia
+  
+    4. Alcaraz y Las lentes fragmentadas
+  
+    5. Alcatraz y El talento oscuro
+
+---
+
++ Saga La Rueda Del Tiempo***:
+
+	- La Tormenta
+
+	- Torres De Medianoche
+
+	- Un Recuerdo De Luz
+
+---
+
++ NOTAS:
+    
+      *El Aliento De Los Dioses no forma parte de la saga del Archivo De Las Tormentas, pero dijo que es recomendable leerlo entremedio
+
+      **Danzante Del Filo es una historia que esta dentro del libro Arcanum Ilimitado que se recomienda leer antes de Juramentada
+
+      ***La Saga De La Rueda Del Tiempo no es original de Sanderson, solo escribio los 3 ultimos tomos porque el autor original falleció
 FUERA DEL COSMERE
 
 
