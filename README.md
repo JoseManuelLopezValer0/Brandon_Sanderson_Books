@@ -5,6 +5,8 @@
 
 ### DENTRO DEL COSMERE:
 
+# Hay un libro que es una recopilación de historias cortas y algunas son muy relevantes, el libro es Arcanum Ilimitado
+
 + Saga Mistborn (Parte 1):
 
 	- El imperio final	
@@ -23,82 +25,52 @@
 
 	- Brazales De Duelo
 
+	- Historia Secreta (Historia corta de Arcanum)
+
+---
+
+---
+
+# Aquí una vez terminada la saga mistborn, hay varios libros principales que se pueden leer en el orden que quieras: Elantris, Aliento y Arena Blanca
+# Pero para lectores que van a ritmo lento diría que este es el mejor orden para ir ya de chill, hasta llegar al archivo
+
++ Arena Blanca (*Si vienes de mistborn hay un easter egg del nombre de un personaje en este libro MUY importante, y una prota es la que escribe el libro de Arcanum en tema lore*)
+
++ Elantris
+
++ El alma del emperador (Historia de Arcanum)
+
++ Arcanum Ilimitado (leer el resto de las historias cortas, menos la parte "El sistema de Roshar" que se salta)
+
++ Aliento de los Dioses (Hay mucha referencias en relación con la saga del archivo, si eres de leer lento es mejor dejarlo para este punto para tenerlo reciente)
+
+---
 ---
 
 + Saga El Archivo De Las Tormentas:
 
 	- El camino de los reyes
 
-	- El Aliento De Los Dioses
-
 	- Palabras Radiantes
 
-	- Arcanum Ilimitado; en especial Danzante Del Filo **
-	
----
+	- Danzante del Filo (Historia de Arcanum)
 
-+ Juramentada
-	
-	- El Ritmo de la Guerra
+	- Juramentada
 
----
+	- Esquirla del Amanecer
 
-+ Elantris
+	- Ritmos de Guerra
 
 ---
 
-+ El Alma Del Emperador
+# Aquí hay dos opciones, o empezar con las novelas secretas o volver a la saga mistborn
 
----
----
-
-### FUERA DEL COSMERE
-
-
-+ Trilogia De Los Reckoners
- (Recomendada para jovenes de 15 años aprox)
- ---
-
-- Steelheart
-
-- Firefight
-
-- Calamity
++ El Metal Perdido
 
 ---
 
-+ Escuadrón
++ Trenza del mar esmeralda
 
----
++ Yumi y el pintor de pesadillas
 
-+ Saga de Alcatraz (Recomendada para niños de 8 años aprox)
-
-    1. Alcatraz vs Bibliotecarios malvados
-  
-    2. Alcatraz vs Los huesos del escriba
-  
-    3. Alcatraz vs Los caballeros de Cristallia
-  
-    4. Alcaraz y Las lentes fragmentadas
-  
-    5. Alcatraz y El talento oscuro
-
----
-
-+ Saga La Rueda Del Tiempo***:
-
-	- La Tormenta
-
-	- Torres De Medianoche
-
-	- Un Recuerdo De Luz
-
----
-
-+ NOTAS:
-    
-      *El Aliento De Los Dioses no forma parte de la saga del Archivo De Las Tormentas, pero dijo que es recomendable leerlo entremedio
-
-      **Danzante Del Filo es una historia que esta dentro del libro Arcanum Ilimitado que se recomienda leer antes de Juramentada
-
-      ***La Saga De La Rueda Del Tiempo no es original de Sanderson, solo escribio los 3 ultimos tomos porque el autor original falleció
++ El hombre iluminado
